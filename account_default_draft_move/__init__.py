@@ -17,6 +17,7 @@
 #    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
 ##############################################################################
+#test by fk
 from . import account
 from . import account_bank_statement
 from . import res_config
